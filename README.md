@@ -24,8 +24,6 @@ Presentation.pdf or the Report.pdf which describe my simulations. For detailed
 background on the models and their relevance to studying neurons refer to the
 original paper.
 
-Copyright 2014 Travis Johnson
-
 ## Matlab Code
 
 Herein is contained the Matlab scripts and functions that I wrote to produce
@@ -33,7 +31,7 @@ the simulations.
 
 - parameters.m -- defines the variables and functions used in the models 
 
-- *Model*.m -- these files define the systems of equations for each of the models
+- (Model).m -- these files define the systems of equations for each of the models
 using the variables defined in the parameters file. 
 
 - Run.m and RunCellNetwork.m -- scripts with the commands to simulate the models 
